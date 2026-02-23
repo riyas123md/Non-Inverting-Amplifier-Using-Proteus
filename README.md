@@ -37,12 +37,18 @@ The output signal is amplified and remains in phase with the input signal.
 
 ## Tabulation
 S.No	Vin (V)	Theoretical Gain	Theoretical Vout (V)	Practical Vout (V)
-|1    | 0.1 V   | 11                    | 1.1 V                | 1.08 V                       |
+| S.No | Vin (V) | Theoretical Gain (Av) | Theoretical Vout (V) | Practical Vout (Proteus) (V) |
+| ---- | ------- | --------------------- | -------------------- | ---------------------------- |
+| 1    | 0.1 V   | 11                    | 1.1 V                | 1.08 V                       |
 | 2    | 0.2 V   | 11                    | 2.2 V                | 2.17 V                       |
 | 3    | 0.3 V   | 11                    | 3.3 V                | 3.26 V                       |
 | 4    | 0.5 V   | 11                    | 5.5 V                | 5.42 V                       |
 | 5    | 0.7 V   | 11                    | 7.7 V                | 7.60 V                       |
 | 6    | 1.0 V   | 11                    | 11 V                 | 10.85 V                      |
+| 7    | 1.2 V   | 11                    | 13.2 V               | 13.0 V                       |
+| 8    | 1.3 V   | 11                    | 14.3 V               | 14.0 V                       |
+| 9    | 1.4 V   | 11                    | 15.4 V               | Saturated (~14 V)            |
+| 10   | 1.5 V   | 11                    | 16.5 V               | Saturated (~14 V)            |
 ## Result
 The Non-Inverting Amplifier using μA741 Op-Amp was designed and simulated successfully.
 The voltage gain obtained is approximately 11.
