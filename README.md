@@ -37,7 +37,7 @@ The output signal is amplified and remains in phase with the input signal.
 
 ## Tabulation
 S.No	Vin (V)	Theoretical Gain	Theoretical Vout (V)	Practical Vout (V)
-1    | 0.1 V   | 11                    | 1.1 V                | 1.08 V                       |
+|1    | 0.1 V   | 11                    | 1.1 V                | 1.08 V                       |
 | 2    | 0.2 V   | 11                    | 2.2 V                | 2.17 V                       |
 | 3    | 0.3 V   | 11                    | 3.3 V                | 3.26 V                       |
 | 4    | 0.5 V   | 11                    | 5.5 V                | 5.42 V                       |
